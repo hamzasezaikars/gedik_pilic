@@ -6,4 +6,5 @@ out/
 *.tsbuildinfo
 .sites-runtime/
 *.zip
+*.tar.gz
 test-results/
